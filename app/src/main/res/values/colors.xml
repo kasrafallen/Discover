@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff548</color>
+    <color name="colorPrimaryDark">#da378e</color>
+    <color name="colorAccent">@color/white</color>
+
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="theme">#00CD66</color>
+    <color name="dark">#22891c</color>
+    <color name="lite">#78de57</color>
+    <color name="base">#f7f7f7</color>
+
+    <color name="progress">#f15856</color>
+
+</resources>
